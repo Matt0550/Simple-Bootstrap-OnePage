@@ -11,3 +11,10 @@
 ![Simple Bootstrap Onepage Website](simple-bootstrap-onepage.png)
 
 ## [Online Demo](https://demo.matt05.ml/simple-bootstrap-onepage/)
+
+# Help
+For help join to [my discord](https://discord.gg/5WrVyQKWAr) (ON MAINTENANCE)
+
+Or open an [issue here on Github](https://github.com/Matt0550/StageMaster-Discord-Bot/issues)
+
+Or contact me here [https://help.matt05.ml](https://help.matt05.ml)
