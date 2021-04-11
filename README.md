@@ -9,4 +9,4 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/Matt0550/Simple-Bootstrap-OnePage?style=social)](https://github.com/Matt0550/Simple-Bootstrap-OnePage/stargazers)
 # Simple-Bootstrap-OnePage
 
-[<h2>Online Demo</h2>](https://demo.matt05.ml/simple-bootstrap-onepage/)
+## [Online Demo](https://demo.matt05.ml/simple-bootstrap-onepage/)
