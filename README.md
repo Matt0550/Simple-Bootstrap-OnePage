@@ -14,6 +14,6 @@
 # Help
 For help join to [my discord](https://discord.gg/5WrVyQKWAr) (ON MAINTENANCE)
 
-Or open an [issue here on Github](https://github.com/Matt0550/StageMaster-Discord-Bot/issues)
+Or open an [issue here on Github](https://github.com/Matt0550/Simple-Bootstrap-OnePage/issues)
 
 Or contact me here [https://help.matt05.ml](https://help.matt05.ml)
