@@ -8,4 +8,5 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Matt0550/Simple-Bootstrap-OnePage?style=social)](https://github.com/Matt0550/Simple-Bootstrap-OnePage/watchers)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Matt0550/Simple-Bootstrap-OnePage?style=social)](https://github.com/Matt0550/Simple-Bootstrap-OnePage/stargazers)
 # Simple-Bootstrap-OnePage
-<h2><a href="https://demo.matt05.ml/simple-bootstrap-onepage/" target="_blank">Online Demo</a></h2>
+
+[<h2>Online Demo</h2>](https://demo.matt05.ml/simple-bootstrap-onepage/)
